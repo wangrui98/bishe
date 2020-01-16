@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cdm9anlizhanshi"
+  id="myeclipse.1480747586091"
+  context-root="/cdm9anlizhanshi"
+  j2ee-spec="5.0"
+  archive="cdm9anlizhanshi.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
